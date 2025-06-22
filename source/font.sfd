@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1750593872
-ModificationTime: 1750624392
+ModificationTime: 1750629706
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,7 +50,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 51 17 7
+WinInfo: 34 17 7
 BeginPrivate: 0
 EndPrivate
 BeginChars: 256 95
@@ -136,32 +136,32 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 3
-Width: 540
-VWidth: 1834
-Flags: W
-VStem: 75 187<124 262 450 590> 326 124<142.985 242.719 469.281 569.508>
+Width: 619
+VWidth: 2769
+Flags: WO
+HStem: 0 21G<75 339.5> 0 21G<75 339.5> 375 94<262 321.828> 730 20G<75 408>
+VStem: 75 187<187 375 469 562> 356 188<222.798 340.16 503.846 562>
 LayerCount: 2
 Fore
 SplineSet
-262 262 m 1
- 262 262 262 200 262 160 c 0
- 262 140 262 124 262 124 c 1
- 296 124 326 154 326 192 c 0
- 326 230 296 262 262 262 c 1
-262 590 m 1
- 262 590 262 524 262 484 c 0
- 262 464 262 450 262 450 c 1
- 296 450 326 482 326 520 c 0
- 326 558 296 590 262 590 c 1
-75 730 m 1
- 75 730 158 730 214 730 c 0
- 241 730 262 730 262 730 c 2
- 364 730 450 636 450 520 c 0
- 450 456 422 396 382 356 c 1
- 422 316 450 256 450 192 c 0
- 450 76 364 -20 262 -20 c 2
- 75 -20 l 1
- 75 730 l 1
+356 281 m 0x3c
+ 356 333 314 375 262 375 c 1
+ 262 187 l 1
+ 314 187 356 229 356 281 c 0x3c
+356 562 m 1
+ 262 562 l 1
+ 262 469 l 1
+ 314 469 356 510 356 562 c 1
+544 562 m 2
+ 544 511 530 463 506 422 c 1
+ 530 381 544 332 544 281 c 0
+ 544 126 417 0 262 0 c 2
+ 75 0 l 1xbc
+ 75 750 l 1
+ 262 750 l 1
+ 356 750 l 2
+ 460 750 544 666 544 563 c 2
+ 544 562 l 2
 EndSplineSet
 Validated: 1
 EndChar
@@ -462,7 +462,7 @@ StartChar: M
 Encoding: 77 77 15
 Width: 915
 VWidth: 1815
-Flags: WO
+Flags: W
 HStem: 0 21G<75 262 356 544 638 825> 0 21G<75 262 356 544 638 825> 562 188<262 321.828 544 600.289>
 VStem: 75 187<0 562> 356 188<0 529.015> 638 187<0 526.246>
 CounterMasks: 1 1c
@@ -1773,6 +1773,7 @@ SplineSet
  450 188 l 1
  450 0 l 1xb0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
@@ -1800,6 +1801,7 @@ SplineSet
  356 188 l 2
  356 86 272 0 170 0 c 2xb0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketleft
