@@ -34,7 +34,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g122"><inkscape:grid
+     inkscape:current-layer="g112"><inkscape:grid
        id="grid1"
        units="px"
        originx="0"
@@ -76,7 +76,7 @@
        id="g112"
        inkscape:label="lower_case"
        transform="matrix(3.7792875,0,0,3.7792875,-77.786747,-73.7808)"
-       style="display:none"><g
+       style="display:inline"><g
          id="g2"
          inkscape:label="a"
          style="display:none"
@@ -748,7 +748,7 @@
        id="g115"
        inkscape:label="upper_case"
        transform="matrix(6.04686,0,0,6.04686,-80.786556,-76.78061)"
-       style="display:inline"><g
+       style="display:none"><g
          id="g114"
          inkscape:label="a"
          style="display:none"
